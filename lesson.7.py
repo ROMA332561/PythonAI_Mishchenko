@@ -27,3 +27,7 @@
 # for elem in iterator:
 #     print(elem)
 
+class Helper
+    def __int__(self, work):
+        self.work = work
+        de__call__(self)
